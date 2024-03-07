@@ -7,6 +7,21 @@ The dashboard provides an interactive and visually appealing exploration of the 
 
 **Description of Netflix Dashboard** 
 
-Delve into the heart of Netflix's content landscape with this concise Tableau dashboard. Track the growth of movies and TV shows over the years, explore global distribution by country, and uncover the top 10 genres that dominate the platform. Gain quick access to detailed information about individual movies and TV shows, including ratings, release years, date added, duration, and brief descriptions. Stay informed, make data-driven content choices, and navigate the vast array of Netflix offerings effortlessly with this insightful dashboard.
-
+- Explore total movies and TV shows over the years.
+  
+- Visualize the global distribution of content by country.
+  
+- Quickly identify the top 10 genres on Netflix.
+  
+- Dive into individual movies and TV shows with details.
+  
+- Analyze ratings to understand content suitability.
+  
+- Get insights into the date added trends.
+  
+- Explore the duration of movies and TV shows.
+  
+- Track release year trends for content strategy.
+  
+- Stay informed about diverse content on Netflix.
 
